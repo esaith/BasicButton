@@ -1,0 +1,9 @@
+## Interface: 80100
+## Title: Basic Button Example
+## Version: 1.0
+## Notes: Basic button example added to the pet journal
+## Author: eSaith
+
+
+BasicButton.lua
+BasicButton.xml
